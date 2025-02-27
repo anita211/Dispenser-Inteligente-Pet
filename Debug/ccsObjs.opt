@@ -1,0 +1,12 @@
+"./3H.obj"
+"./UART.obj"
+"./gpio.obj"
+"./i2c.obj"
+"./lcd.obj"
+"./main.obj"
+"./motor.obj"
+"./sensor.obj"
+"./utils.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
